@@ -8,15 +8,15 @@
     <img src="https://img.shields.io/badge/🌐 Portfolio-Site-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   
-  <a href="https://leetcode.com/yourusername/" target="_blank">
+  <a href="https://leetcode.com/Pavan04Codes/" target="_blank">
     <img src="https://img.shields.io/badge/⚡ LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+  <a href="https://www.linkedin.com/in/pavankumarkm/" target="_blank">
     <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:prempavan81@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/✉️ Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -34,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Pawan-Kumar-KM&show_icons=true&theme=radical" />
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-Kumar-KM&theme=radical" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Pavan04pp&show_icons=true&theme=radical" />
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan04pp&theme=radical" />
 </p>
 
 ---
