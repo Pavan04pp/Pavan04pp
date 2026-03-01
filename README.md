@@ -1,44 +1,58 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Pavan%20Kumar%20KM&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<!-- NEON HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=230&section=header&text=Pavan%20Kumar%20KM&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 
-<h1 align="center">⚡ AIML Engineer | DSA Focused | Full Stack Dev ⚡</h1>
+<h1 align="center">👾 AI | Web | DSA | Future Tech 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%7C+Web+Development+%7C+Problem+Solving;LeetCode+Grinding+Daily;Building+Impactful+Projects;Future+Tech+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Projects;LeetCode+Daily+Grind;Full+Stack+Developer;Turning+Ideas+Into+Reality" />
 </p>
 
 ---
 
-## 🌐 CONNECT
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-DSA%20%7C%20AIML-00F7FF?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌐 CONNECT
 
 <p align="center">
   <a href="http://pavancodes.me/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/🚀 Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
   </a>
   <a href="https://leetcode.com/u/Pavan04Codes/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/⚡ LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/pavankumarkm/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 🧠 LEETCODE STATS (WORKING VERSION)
+# 🧠 LEETCODE POWER
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Pavan04Codes?theme=dark&font=Baloo&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/Pavan04Codes?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 ---
 
-# ⚔️ GITHUB POWER
+# ⚔️ GITHUB STATS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pavan04pp&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan04pp&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pavan04pp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan04pp&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavan04pp&theme=tokyo-night&hide_border=true"/>
@@ -46,26 +60,18 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pavan04pp/Pavan04pp/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 # 🛠 TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,django,mongodb,git,linux,pytorch"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,django,mongodb,git,linux,pytorch" />
 </p>
 
 ---
 
-# 🎯 CURRENT FOCUS
+# 🔥 CURRENT ARC
 
 ```text
-> DSA mastery in C++
-> AI + Web integration
-> Building scalable student tools
-> Industry-ready engineering
+⚡ Mastering DSA
+⚡ AI + Web Integration
+⚡ Building Real Tools
+⚡ Industry-Level Engineering
