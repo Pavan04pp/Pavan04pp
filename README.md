@@ -1,59 +1,71 @@
-<h1 align="center">Hey 👋 I'm <b>Pawan Kumar KM</b></h1>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Pavan%20Kumar%20KM&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
+<h1 align="center">⚡ AIML Engineer | DSA Focused | Full Stack Dev ⚡</h1>
+
 <p align="center">
-  🚀 AIML Enthusiast & Full-Stack Builder | C++ + Python + Web Dev
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%7C+Web+Development+%7C+Problem+Solving;LeetCode+Grinding+Daily;Building+Impactful+Projects;Future+Tech+Creator" />
 </p>
 
+---
+
+## 🌐 CONNECT
+
 <p align="center">
-  <a href="http://pavancodes.me/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Site-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="http://pavancodes.me/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
   </a>
-  
-  <a href="https://leetcode.com/Pavan04Codes/" target="_blank">
-    <img src="https://img.shields.io/badge/⚡ LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com/u/Pavan04Codes/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/pavankumarkm/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:prempavan81@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/✉️ Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/pavankumarkm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💫 About Me
-- 🔥 Passionate about building real-world tools & AI-powered apps
-- 🧠 DSA lover — grinding problems every day
-- 💻 Full Stack + AIML projects on GitHub
-- 🚀 Always learning, always leveling up
-
----
-
-## 📊 GitHub Stats
+# 🧠 LEETCODE STATS (WORKING VERSION)
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Pavan04pp&show_icons=true&theme=radical" />
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan04pp&theme=radical" />
+  <img src="https://leetcard.jacoblin.cool/Pavan04Codes?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
 
-## 💻 Tech Stack
+# ⚔️ GITHUB POWER
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pavan04pp&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan04pp&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavan04pp&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+# 🐍 Contribution Snake Animation
+
 <p align="center">
-  📍 Based in Mysore, India 🇮🇳  
-  🚀 Aim: Build impactful AF projects & scale skills
+  <img src="https://raw.githubusercontent.com/Pavan04pp/Pavan04pp/output/github-contribution-grid-snake.svg" />
 </p>
-](https://leetcode.com/u/Pavan04Codes/)
+
+---
+
+# 🛠 TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,django,mongodb,git,linux,pytorch"/>
+</p>
+
+---
+
+# 🎯 CURRENT FOCUS
+
+```text
+> DSA mastery in C++
+> AI + Web integration
+> Building scalable student tools
+> Industry-ready engineering
