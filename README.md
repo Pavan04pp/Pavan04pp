@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm <b>Pawan Kumar KM</b></h1>
+[<h1 align="center">Hey 👋 I'm <b>Pawan Kumar KM</b></h1>
 <p align="center">
   🚀 AIML Enthusiast & Full-Stack Builder | C++ + Python + Web Dev
 </p>
@@ -56,3 +56,4 @@
   📍 Based in Mysore, India 🇮🇳  
   🚀 Aim: Build impactful AF projects & scale skills
 </p>
+](https://leetcode.com/u/Pavan04Codes/)
