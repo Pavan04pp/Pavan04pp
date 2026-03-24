@@ -72,6 +72,6 @@
 
 ```text
 ⚡ Mastering DSA
-⚡ AI + Web Integration
+⚡ AI + Web Integrations
 ⚡ Building Real Tools
 ⚡ Industry-Level Engineering
