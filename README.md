@@ -1,4 +1,5 @@
 <!-- NEON HEADER -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=230&section=header&text=Pavan%20Kumar%20KM&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 
 <h1 align="center">👾 AI | Web | DSA | Future Tech 👾</h1>
@@ -75,3 +76,73 @@
 ⚡ AI + Web Integrations
 ⚡ Building Real Tools
 ⚡ Industry-Level Engineering
+```
+
+---
+
+# 🧠 DAILY CODING CHALLENGE ⚔️
+
+<p align="center">
+
+💡 <b>Problem of the Day</b>
+
+<b>Find the second largest element in an array</b>
+
+</p>
+
+```cpp
+Input: [10, 5, 20, 8]
+Output: 10
+```
+
+<p align="center">
+🧠 Try solving before opening...
+</p>
+
+<details>
+<summary>👉 Click to Reveal Solution</summary>
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int secondLargest(vector<int>& arr) {
+    int first = INT_MIN, second = INT_MIN;
+
+    for(int x : arr){
+        if(x > first){
+            second = first;
+            first = x;
+        }
+        else if(x > second && x != first){
+            second = x;
+        }
+    }
+    return second;
+}
+```
+
+</details>
+
+<p align="center">
+⭐ Solving daily on LeetCode → Check my progress above
+</p>
+
+---
+
+# 👀 SECRET MODE
+
+<details>
+<summary>👀 Click if curious...</summary>
+
+```text
+If you're reading this...
+
+You're not average.
+
+Now go build something insane 🚀
+```
+
+</details>
+
+---
