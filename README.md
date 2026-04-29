@@ -114,7 +114,7 @@ Most people scroll past GitHub profiles.
 You read them.
 
 That's the difference between builders and watchers.
-Now go build something insane. 🚀
+Now go build something insane. 🤞🚀
 ```
 
 </details>
