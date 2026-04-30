@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 LeetCode Stats!
 
 <div align="center">
 
